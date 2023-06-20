@@ -36,15 +36,15 @@ dark: #919192
 
 -- ftd.color text-:
 light: #425466
-dark: #425466
+dark: #ffffff99
 
 -- ftd.color text-strong-:
 light: #0a2540
-dark: #0a2540
+dark: #ffffff
 
 -- ftd.color shadow-:
 light: #0096eb
-dark: #0096eb
+dark: #9d98ff
 
 -- ftd.color scrim-:
 light: #393939
