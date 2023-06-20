@@ -26,20 +26,20 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #434547
-dark: #434547
+light: #635BFF
+dark: #635BFF
 
 -- ftd.color border-strong-:
 light: #919192
 dark: #919192
 
 -- ftd.color text-:
-light: #a8a29e
-dark: #a8a29e
+light: #425466
+dark: #425466
 
 -- ftd.color text-strong-:
-light: #ffffff
-dark: #ffffff
+light: #0a2540
+dark: #0a2540
 
 -- ftd.color shadow-:
 light: #007f9b
